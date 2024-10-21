@@ -13,7 +13,7 @@ Underflow and Overflow:
 Underflow occurs when you try to pop from an empty stack.
 Overflow occurs when you try to push an element into a full stack (if the stack has a fixed size).
 
-CODE WHICH EXPLAINS STACK 
+CODE: 
 ```
 
 
