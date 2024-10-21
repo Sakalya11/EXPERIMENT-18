@@ -15,9 +15,6 @@ Overflow occurs when you try to push an element into a full stack (if the stack 
 
 CODE: 
 ```
-
-
-
 #include <iostream>
 using namespace std;
 
